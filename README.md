@@ -5,7 +5,7 @@
 The **React Landing Page** project is a modern and minimalistic template designed for websites focused on marketing, news, blogs, or portfolios. Built using **React** and **TypeScript**, it incorporates **Bootstrap components** to ensure high performance and rapid delivery while maintaining a clean and elegant interface.
 
 <p align="center">
-  <img src="./public/preview.png" alt="React Landing Page" width="400">
+  <img src="./preview.png" alt="React Landing Page" width="400">
 </p>
 
 ## Features
