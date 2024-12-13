@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
-/* Reset CSS */
 * {
   margin: 0;
   padding: 0;
@@ -8,7 +7,6 @@
 }
 
 html, body {
-  height: 100%;
   font-family: 'Roboto', Arial, sans-serif;
   color: var(--text-color, #333);
   background-color: var(--background-color, #ebebeb);
@@ -50,7 +48,7 @@ body {
 }
 
 .hero-container {
-  width: 100%;
+  width: 100vw;
   margin: 0 auto;
   color: var(--text-color);
 }
@@ -75,8 +73,7 @@ body {
 section {
   display: flex;
   flex-direction: column;
-  padding: 2rem 0;
-  gap:20px;
+  gap:40px;
 }
 
 .hero {
